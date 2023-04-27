@@ -1,49 +1,55 @@
 # Sensory accommodations
 
-<why sensory accommodations matter. people don't really know about them. problems with awareness. no gatekeeping!>
+Sensory accommodations are important for neurodivergent individuals who experience sensory processing differences. But, many are unaware of these accommodations, which can lead to discomfort, anxiety, and overwhelm. In this doc, you'll find sensory accommodations that can help neurodivergent individuals regulate sensory experiences.
 
 ## General tips
 
-- Try things out even if you're unsure. You don't hurt anyone with any of these, and you only know if you experience it.
-- Consider an 'accomodation satchel'. (I personally use a fanny pack over my body with my sunglasses, loops, sea bands, fan, tissues, and sunscreen.) Having a way to keep these items close to me and consistent at all times helps not only with regulation and comfort, but with anxiety because I know I'll be able to accomodate myself.
-- As you try things, let your curiosity explore further. For example, if you find yourself particularly soothed by a weighted blanket, consider more research or attention to your proprioceptive processing.
+Here are some general tips to keep in mind when exploring sensory accommodations:
+
+- Try out different accommodations even if you're unsure about them. You won't harm anyone by experimenting with different strategies, and you'll only know if they work by experiencing them firsthand.
+- Consider creating an "accommodation satchel" to keep your sensory tools close at hand. For example, you could use a fanny pack to store items such as sunglasses, earplugs, fidget toys, and sunscreen. This can help with regulation, comfort, and anxiety, as you'll know that you have what you need to accommodate yourself at all times.
+- As you try out different accommodations, follow your curiosity and explore further. For example, if you find that you're particularly soothed by a weighted blanket, consider doing more research on proprioceptive processing.
 
 ## Sight / vision
 
-- [Dark Reader](https://darkreader.org/) Dark mode everywhere
-- Sunglasses - simple, but effective
+- [Dark Reader](https://darkreader.org/) - A browser extension that enables dark mode everywhere, reducing the amount of bright light that you're exposed to.
+- Sunglasses - Wearing sunglasses can be a simple but effective way to reduce glare and bright light.
 
 ## Hearing / audition
 
-- [Loop earplugs](https://www.loopearplugs.com/) Subtle, adjustable earbuds for reduced noise. Wearable in social situations!
-- [Flare Calmer](https://www.flareaudio.com/products/calmer) Worn in the ear to minimise stressful sounds and focus on the important ones.
-- [Life P3 noise cancelling earbuds](https://uk.soundcore.com/collections/true-wireless/products/a3939011)
-- [earos](https://earos.com/) Filter the noise, not the sound.
-- [Bose Sleepbuds 2](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html): very popular among misophonia sufferers particularly if your partner triggers you :smile:
-- [AirPods Pro](https://www.apple.com/airpods-pro/) do a great job of filtering out noise and are easily pocketable, and have a variety of other [hearing accessibility features](https://support.apple.com/en-us/HT211218) that might be helpful as well.
+- [Loop earplugs](https://www.loopearplugs.com/) - Subtle, adjustable earbuds that reduce noise. These are wearable in social situations, making them a discreet option for reducing noise.
+- [Flare Calmer](https://www.flareaudio.com/products/calmer) - In-ear devices that minimize stressful sounds and focus on important ones.
+- [Life P3 noise cancelling earbuds](https://uk.soundcore.com/collections/true-wireless/products/a3939011) - Wireless earbuds that offer noise cancellation for a more peaceful listening experience.
+- [earos](https://earos.com/) - Devices that filter out noise without blocking important sounds.
+- [Bose Sleepbuds 2](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html) - Popular among misophonia sufferers, these earbuds help to block out trigger sounds, such as a partner snoring.
+- [AirPods Pro](https://www.apple.com/airpods-pro/) - These wireless earbuds offer noise cancellation and other hearing accessibility features, such as transparency mode and audio sharing.
 
 ## Smell
 
-- [Gya Labs Everyday Care rollers](https://gyalabs.com/collections/everyday-care) Breathe Easy and Migraine Manager are roll on essential oils.
-- [Doterra Cheer roll-on essentials](https://www.doterra.com/DE/en_DE/pl/roll-on-essentials) Roll on essential oils
+- [Gya Labs Everyday Care rollers](https://gyalabs.com/collections/everyday-care) - These roll-on essential oils offer scents such as "Breathe Easy" and "Migraine Manager".
+- [Doterra Cheer roll-on essentials](https://www.doterra.com/DE/en_DE/pl/roll-on-essentials) - These roll-on essential oils offer various scents that can be calming or energizing.
 
 ## Touch / tactile
 
-- [Chewelry](https://www.arktherapeutic.com/chewelry/) Necklaces designed for oral stimulation.
+- [Chewelry](https://www.arktherapeutic.com/chewelry/) - These necklaces are designed for oral stimulation, providing a discreet way to soothe sensory needs.
 
 ## [Vestibular](https://sensoryprocessinghub.humber.nhs.uk/sense-vestibular-system/)
 
-- [Sea bands](https://www.sea-band.com/) Worn on the wrist to reduce motion sickness or other vestibular problems. _Certain smells and looking at screens for too long can all make me feel motion sick. These help._
-- Candied ginger
+- [Sea bands](https://www.sea-band.com/) - These bands are worn on the wrist to reduce motion sickness or other vestibular problems. They can be particularly helpful if certain smells or looking at screens for too long make you feel motion sick.
+- Candied ginger - This natural remedy can also help with motion sickness.
 
 ## Temperature regulation
 
-- [Hand fans](https://www.etsy.com/market/cork_hand_fan) offer compact temperature control and are only minimally socially distracting
+- [Hand fans](https://www.etsy.com/market/cork_hand_fan) - These compact fans can be used to regulate body temperature and are minimally distracting in social situations.
 
 ## Taste
 
+If you exhibit sensory avoidance in taste, you may prefer milder, less complex foods because you find it easier to process and are more comfortable with familiar tastes and textures. You may benefit from a gradual introduction to new and varied flavors and textures, rather than trying lots of new things all at once.
+
+On the other hand, individuals who display sensory seeking behaviors may enjoy stronger flavors and more dynamic textures because they find them stimulating and exciting. Try more hot sauces, or extreme sour candies for socially-accepted stimulation.
+
 ## [Proprioceptive](https://sensoryprocessinghub.humber.nhs.uk/sense-proprioception/)
 
-- Weighted blankets
+- Weighted blankets - These blankets provide deep pressure stimulation that can be soothing for some individuals.
 
 ## [Interoception](https://sensoryprocessinghub.humber.nhs.uk/sense-interoception/)
