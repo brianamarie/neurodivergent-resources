@@ -1,6 +1,23 @@
 # Sensory accommodations
 
-Sensory accommodations are important for neurodivergent individuals who experience sensory processing differences. But, many are unaware of these accommodations, which can lead to discomfort, anxiety, and overwhelm. In this doc, you'll find sensory accommodations that can help neurodivergent individuals regulate sensory experiences.
+Sensory accommodations are important for neurodivergent individuals who experience sensory processing differences. It's important to recognize that any individual can be seeking or avoiding sensory input at any given time, and that everyone's needs are unique and valid.
+
+<details>
+<summary>Sensory Seeking</summary>
+<br>
+Sensory seeking behavior helps us address understimulation. Sensory seeking is a way for us to find the amount of stimulation we need to regulate our systems properly. If you seek out strong flavors or dynamic textures, you may be sensory seeking to address an understimulated nervous system.
+</details>
+
+<details>
+<summary>Sensory Avoidance</summary>
+<br>
+Sensory avoidance protects us from overstimulation. Overstimulation can com or feel overwhelmed or uncomfortable with certain textures, tastes, or smells. It is important to approach these experiences from the perspective of individuals who have personal experience with them, rather than imposing external judgments. Accommodations for sensory avoidance may include things like noise-cancelling headphones or sunglasses.
+</details>
+<details>
+<summary>Synesthesia</summary>
+<br>
+Synesthesia involves your perception of sensory information. Sometimes different accommodations, such as using sea-sickness remedies for smells or incorporating pleasant smells to combat motion sickness, can provide unexpected comfort.
+</details>
 
 ## General tips
 
@@ -44,9 +61,27 @@ Here are some general tips to keep in mind when exploring sensory accommodations
 
 ## Taste
 
-If you exhibit sensory avoidance in taste, you may prefer milder, less complex foods because you find it easier to process and are more comfortable with familiar tastes and textures. You may benefit from a gradual introduction to new and varied flavors and textures, rather than trying lots of new things all at once.
+FED IS BEST. Sensory behaviors around food are SENSITIVE and NONE OF ANYONE ELSE'S BUSINESS. Fed is best. Listen to your body, not the haters.
 
-On the other hand, individuals who display sensory seeking behaviors may enjoy stronger flavors and more dynamic textures because they find them stimulating and exciting. Try more hot sauces, or extreme sour candies for socially-accepted stimulation.
+:sparkles: A special moment for the safe foods :sparkles:
+- "Safe food" refers to food that feels "safe" to eat _almost_ all the time for people with sensory issues around taste and eating.
+- Each person's safe foods are unique. 
+- Safe foods can be considered safe for any reason, and it doesn't have to "make sense". Things like taste, texture, smell, shape, color, etc., are all on the table and completely healthy expressions of sensory avoidance/seeking in eating.
+
+:heart: My safe foods, as examples :heart:
+  - Cheese roll ups (tortilla + cheddar cheese + microwave)
+  - Potatoes
+  - Chickpease
+  - Bread and butter
+  - Noodles (buttered is best)
+  - Rice (butter and brown sugar preferred) 
+
+Find your safe foods, and improve your life
+- Once you know your safe foods, you can make sure to always have them on hand in enough quantity to stay relaxed! 
+- Create a list of safe food or safe snacks you have in the house, and keep it in an easy to see place for when you need to eat
+- FED IS BEST
+
+Sensory seeking for taste? Try more hot sauces, or extreme sour candies for socially-accepted stimulation.
 
 ## [Proprioceptive](https://sensoryprocessinghub.humber.nhs.uk/sense-proprioception/)
 
