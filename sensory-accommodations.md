@@ -23,9 +23,9 @@ Synesthesia involves your perception of sensory information. Sometimes different
 
 Here are some general tips to keep in mind when exploring sensory accommodations:
 
-- Try out different accommodations even if you're unsure about them. You won't harm anyone by experimenting with different strategies, and you'll only know if they work by experiencing them firsthand.
-- Consider creating an "accommodation satchel" to keep your sensory tools close at hand. For example, you could use a fanny pack to store items such as sunglasses, earplugs, fidget toys, and sunscreen. This can help with regulation, comfort, and anxiety, as you'll know that you have what you need to accommodate yourself at all times.
-- As you try out different accommodations, follow your curiosity and explore further. For example, if you find that you're particularly soothed by a weighted blanket, consider doing more research on proprioceptive processing.
+- **Try it out**: Try out different accommodations even if you're unsure about them. You won't harm anyone by experimenting with different strategies, and you'll only know if they work by experiencing them firsthand.
+- **Accommodation satchel**: Consider creating an "accommodation satchel" to keep your sensory tools close at hand. For example, you could use a fanny pack to store items such as sunglasses, earplugs, fidget toys, and sunscreen. This can help with regulation, comfort, and anxiety, as you'll know that you have what you need to accommodate yourself at all times. (I'm currently using a basic fanny pack.)
+- **Be curious**: As you try out different accommodations, follow your curiosity and explore further. For example, if you find that you're particularly soothed by a weighted blanket, consider doing more research on proprioceptive processing.
 
 ## Sight / vision
 
