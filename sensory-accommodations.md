@@ -85,5 +85,6 @@ Sensory seeking for taste? Try more hot sauces, or extreme sour candies for soci
 ## [Proprioceptive](https://sensoryprocessinghub.humber.nhs.uk/sense-proprioception/)
 
 - Weighted blankets - These blankets provide deep pressure stimulation that can be soothing for some individuals.
+- [Weighted stuffed animals](https://www.etsy.com/listing/724807387/take-alongs-small-weighted-animals?fbclid=IwAR2gbyhhsXlcCeH0FWONEgmgbzij2i-FQQ7_bOTDB8HqcUSnLdoF-DCAhm4) - These can be customized via Etsy
 
 ## [Interoception](https://sensoryprocessinghub.humber.nhs.uk/sense-interoception/)
