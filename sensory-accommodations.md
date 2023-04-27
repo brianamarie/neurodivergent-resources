@@ -38,7 +38,6 @@ Here are some general tips to keep in mind when exploring sensory accommodations
 - [Flare Calmer](https://www.flareaudio.com/products/calmer) - In-ear devices that minimize stressful sounds and focus on important ones.
 - [Life P3 noise cancelling earbuds](https://uk.soundcore.com/collections/true-wireless/products/a3939011) - Wireless earbuds that offer noise cancellation for a more peaceful listening experience.
 - [earos](https://earos.com/) - Devices that filter out noise without blocking important sounds.
-- [Bose Sleepbuds 2](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html) - Popular among misophonia sufferers, these earbuds help to block out trigger sounds, such as a partner snoring.
 - [AirPods Pro](https://www.apple.com/airpods-pro/) - These wireless earbuds offer noise cancellation and other hearing accessibility features, such as transparency mode and audio sharing.
 
 ## Smell
@@ -71,7 +70,7 @@ FED IS BEST. Sensory behaviors around food are SENSITIVE and NONE OF ANYONE ELSE
 :heart: My safe foods, as examples :heart:
   - Cheese roll ups (tortilla + cheddar cheese + microwave)
   - Potatoes
-  - Chickpease
+  - Chickpeas
   - Bread and butter
   - Noodles (buttered is best)
   - Rice (butter and brown sugar preferred) 
