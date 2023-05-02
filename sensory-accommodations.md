@@ -34,7 +34,7 @@ Here are some general tips to keep in mind when exploring sensory accommodations
 
 ## Hearing / audition
 
-- [Loop earplugs](https://www.loopearplugs.com/) - Subtle, adjustable earbuds that reduce noise. These are wearable in social situations, making them a discreet option for reducing noise.
+- [Loop earplugs](https://www.loopearplugs.com/) - Subtle, adjustable earbuds that reduce noise. These are wearable in social situations, making them a discreet option for reducing noise. **For those that wear earrings, you can check out [earrings made to wear with Loop earplugs](https://www.etsy.com/search?explicit=1&q=earrings+with+loop+earplugs&ship_to=ZZ)**.
 - [Flare Calmer](https://www.flareaudio.com/products/calmer) - In-ear devices that minimize stressful sounds and focus on important ones.
 - [Life P3 noise cancelling earbuds](https://uk.soundcore.com/collections/true-wireless/products/a3939011) - Wireless earbuds that offer noise cancellation for a more peaceful listening experience.
 - [earos](https://earos.com/) - Devices that filter out noise without blocking important sounds.
